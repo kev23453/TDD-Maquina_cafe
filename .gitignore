@@ -1,0 +1,20 @@
+
+# Archivos de compilación
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Resultados de pruebas
+TestResults/
+coverage/
